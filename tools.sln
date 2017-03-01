@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tools", "WindowsFormsApplication1\tools.csproj", "{F412CD26-C4E1-4EFC-9D40-03F4D0814928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "note", "note\note.csproj", "{45FA9D0B-46D2-4BBB-9B66-B9CA7C8CAF06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam", "exam\exam.csproj", "{AB6BE6A1-0127-47BD-987A-58322DB4FDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLibrary", "MyClassLibrary\MyClassLibrary.csproj", "{C7B778B3-01FB-4A43-BC34-C7729C63D48F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keybord", "keybord\keybord.csproj", "{F73612D3-0F0B-4EC1-A63C-0E48DF1ECF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netease", "Netease\Netease.csproj", "{DBC948A4-5746-4F32-A05F-38C3A0292FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F412CD26-C4E1-4EFC-9D40-03F4D0814928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F412CD26-C4E1-4EFC-9D40-03F4D0814928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F412CD26-C4E1-4EFC-9D40-03F4D0814928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F412CD26-C4E1-4EFC-9D40-03F4D0814928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FA9D0B-46D2-4BBB-9B66-B9CA7C8CAF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FA9D0B-46D2-4BBB-9B66-B9CA7C8CAF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FA9D0B-46D2-4BBB-9B66-B9CA7C8CAF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FA9D0B-46D2-4BBB-9B66-B9CA7C8CAF06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6BE6A1-0127-47BD-987A-58322DB4FDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6BE6A1-0127-47BD-987A-58322DB4FDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6BE6A1-0127-47BD-987A-58322DB4FDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6BE6A1-0127-47BD-987A-58322DB4FDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B778B3-01FB-4A43-BC34-C7729C63D48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B778B3-01FB-4A43-BC34-C7729C63D48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B778B3-01FB-4A43-BC34-C7729C63D48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B778B3-01FB-4A43-BC34-C7729C63D48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73612D3-0F0B-4EC1-A63C-0E48DF1ECF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73612D3-0F0B-4EC1-A63C-0E48DF1ECF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73612D3-0F0B-4EC1-A63C-0E48DF1ECF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73612D3-0F0B-4EC1-A63C-0E48DF1ECF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC948A4-5746-4F32-A05F-38C3A0292FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC948A4-5746-4F32-A05F-38C3A0292FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC948A4-5746-4F32-A05F-38C3A0292FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC948A4-5746-4F32-A05F-38C3A0292FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
